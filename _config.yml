@@ -2,7 +2,7 @@ title:              Mein Blog
 email:              binh-do@hotmail.de
 description:        Mein Auslandssemester in Japan 
 author:             Binhi
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://thianbinhdo.github.io"
 
 # Social Profiles
@@ -17,3 +17,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
