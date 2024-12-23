@@ -33,7 +33,7 @@ background: '/img/posts/nagano/18.jpeg'
   <p class="caption text-muted">Bild 8 aus Nagano</p>
 
   <img src="/img/posts/nagano/09.jpeg" alt="Nagano Bild 9" class="img-fluid">
-  <p class="caption text-muted">Bild 9 aus Nagano</p>
+  <p class="caption text-muted">Bild 9 aus Nagano: Oyaki ist eine Spezialität aus Nagano. Es handelt sich um ein vegetarisches Teigbällchen gefüllt mit Gemüse. Wir hatten die Füllungen Miso, pickled cucumber and chili sowie eine Kohlvariante. Super lecker!!!!  </p>
 
   <img src="/img/posts/nagano/10.jpeg" alt="Nagano Bild 10" class="img-fluid">
   <p class="caption text-muted">Bild 10 aus Nagano</p>
@@ -102,8 +102,8 @@ background: '/img/posts/nagano/18.jpeg'
   <p class="caption text-muted">Bild 30 aus Nagano</p>
 
   <img src="/img/posts/nagano/28.jpeg" alt="Nagano Bild 28" class="img-fluid">
-  <p class="caption text-muted">Bild 31 aus Nagano</p>
-
+  <p class="caption text-muted">Bild 31 aus Nagano: Kurz vor unserer Abfahrt zurück nach Tokio gab es dann natürlich auch nochmal eine Schüssel Ramen, diesmal direkt am Gleis für nicht mal 2€</p>
   
 </div>
 
+<p> Nagano war traumhaft schön und ich würde gerne nochmal im Februar zurückkommen, wenn mehr Schnee liegt. Bis dahin bleibe ich wohl in meinem warmen Tokio <p>
