@@ -2,7 +2,7 @@
 layout: post
 title: "3 Tage Nagano in Bildern"
 date: 2020-01-27 23:45:13 -0400
-background: '/img/posts/nagano/18.jpg'
+background: '/img/posts/nagano/18.jpeg'
 ---
 
 <p>In diesem Bericht möchte ich von Nagano berichten. Ich war vom 20.-22.12 mit Emily und Jannik in Nagano um die Schneeaffen zu sehen und vor allem Schnee!!!! Beides hat fantasisch geklappt und ich bin wirklich so unglaublich beeindruckt. Nagano war überrachenderweise sehr ruhig und kaum von Touristen überschwemmt. Es gab viele kleine hochwertige Läden, die lokale Sachen verkauft haben. Ich habe zwar vielleicht nicht wirklich viel gekauft, aber es sehr genossen da durch zu schlendern. </p>
