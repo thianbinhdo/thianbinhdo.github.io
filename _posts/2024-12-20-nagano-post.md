@@ -106,4 +106,4 @@ background: '/img/posts/nagano/18.jpeg'
   
 </div>
 
-<p> Nagano war traumhaft schön und ich würde gerne nochmal im Februar zurückkommen, wenn mehr Schnee liegt. Bis dahin bleibe ich wohl in meinem warmen Tokio <p>
+<p> Nagano war traumhaft schön und ich würde gerne nochmal im Februar zurückkommen, wenn mehr Schnee liegt. Bis dahin bleibe ich wohl in meinem warmen Tokio. <p>
