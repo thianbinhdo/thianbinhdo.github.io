@@ -1,6 +1,6 @@
-title:              Mein Blog 
+title:              Mein Blog
 email:              binh-do@hotmail.de
-description:        Mein Auslandssemester in Japan 
+description:        Mein Auslandssemester in Japan
 author:             Binhi
 baseurl:            ""
 url:                "https://thianbinhdo.github.io"
@@ -18,25 +18,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-  pages:
+# Navigation Links
+navigation:
+  - title: "Home"
+    url: "/"
   - title: "Bücher"
-    permalink: "/buecher/"
-    layout: "page"
-    description: "Meine gelesenen Bücher"
-
-   - title: "Home"
-    permalink: "/home/"
-    layout: "page"
-    description: "Mein Blog"
-
- - title: "About"
-    permalink: "/about/"
-    layout: "page"
-    description: "Mein Auslandssemester"
-
- - title: "Posts"
-    permalink: "/posts/"
-    layout: "posts"
-    description: "Meine gelesenen Bücher"
-
+    url: "/buecher/"
+  - title: "About"
+    url: "/about/"
+  - title: "Posts"
+    url: "/posts/"
 
