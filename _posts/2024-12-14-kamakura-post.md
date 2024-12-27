@@ -5,6 +5,14 @@ date: 2020-01-27 23:45:13 -0400
 background: '/img/posts/kamakura/08.jpeg'
 ---
 
+<h1> Fun Fact über Kamakura </h1>
+<p> Kamakura war einmal die politische Hauptstadt Japans!
+
+Obwohl heute vor allem für seine historischen Tempel und den berühmten Großen Buddha (Daibutsu) bekannt, war Kamakura im 12. und 13. Jahrhundert das Zentrum der Macht in Japan. Im Jahr 1192 wurde Kamakura von Minamoto no Yoritomo zur Hauptstadt der Kamakura-Shogunatsregierung ernannt, wodurch es vorübergehend das politische und militärische Zentrum Japans wurde, während Kyoto weiterhin als kulturelle Hauptstadt diente. Dieses Shogunat regierte Japan bis 1333. Kamakura wird oft als "die Wiege des Samurai" betrachtet, da es in dieser Zeit den Samurai-Kriegertum als führende Klasse in Japan etablierte.</p>
+
+<p> Unser Trip an einem sonnigen Freitag hat uns 1,5h mit dem Zug raus aus Kamakura gebracht. Die Stadt ist der perfekte Ausflugsort, weil man neben den klassischen Sightseeing-Attraktionen und leckerem Essen auch ans Meer kann! </p>
+
+
 <div class="gallery">
   <img src="/img/posts/kamakura/01.jpeg" alt="Kamakura Bild 1" class="img-fluid">
   <p class="caption text-muted">Bild 1 aus Kamakura</p>
@@ -139,3 +147,5 @@ background: '/img/posts/kamakura/08.jpeg'
   <p class="caption text-muted">Bild 47 aus Kamakura</p>
 
 </div>
+
+<p> Wieder einmal geht ein wundervoller Tag in Japan vorbei. </p>
