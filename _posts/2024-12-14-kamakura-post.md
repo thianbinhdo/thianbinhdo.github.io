@@ -2,7 +2,7 @@
 layout: post
 title: "Ein sonniger Tag in Kamakura"
 date: 2020-01-27 23:45:13 -0400
-background: '/img/posts/kamakura/06.jpeg'
+background: '/img/posts/kamakura/08.jpeg'
 ---
 
 <div class="gallery">
@@ -32,15 +32,6 @@ background: '/img/posts/kamakura/06.jpeg'
 
   <img src="/img/posts/kamakura/09.jpeg" alt="Kamakura Bild 9" class="img-fluid">
   <p class="caption text-muted">Bild 9 aus Kamakura</p>
-
-<img src="/img/posts/kamakura/10.jpeg" alt="Kamakura Bild 10" class="img-fluid">
-  <p class="caption text-muted">Bild 10 aus Kamakura</p>
-
-  <img src="/img/posts/kamakura/11.jpeg" alt="Kamakura Bild 11" class="img-fluid">
-  <p class="caption text-muted">Bild 11 aus Kamakura</p>
-
-  <img src="/img/posts/kamakura/12.jpeg" alt="Kamakura Bild 12" class="img-fluid">
-  <p class="caption text-muted">Bild 12 aus Kamakura</p>
 
   <img src="/img/posts/kamakura/13.jpeg" alt="Kamakura Bild 13" class="img-fluid">
   <p class="caption text-muted">Bild 13 aus Kamakura</p>
@@ -102,7 +93,7 @@ background: '/img/posts/kamakura/06.jpeg'
   <img src="/img/posts/kamakura/32.jpeg" alt="Kamakura Bild 32" class="img-fluid">
   <p class="caption text-muted">Bild 32 aus Kamakura</p>
 
-   <img src="/img/posts/kamakura/33.jpeg" alt="Kamakura Bild 33" class="img-fluid">
+  <img src="/img/posts/kamakura/33.jpeg" alt="Kamakura Bild 33" class="img-fluid">
   <p class="caption text-muted">Bild 33 aus Kamakura</p>
 
   <img src="/img/posts/kamakura/34.jpeg" alt="Kamakura Bild 34" class="img-fluid">
