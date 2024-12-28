@@ -5,7 +5,7 @@ date: 2024-12-05 23:45:13 -0400
 background: '/img/posts/shanghai/08.jpeg'
 ---
 
-<h1> Ein kurzer Trip nach Shanghai <h1>
+<h1> Ein kurzer Trip nach Shanghai </h1>
 
 <p> Unser Trip zu viert nach Shanghai begann am Narita Flughafen in Tokio. Von da begann unsere aufregende Reise und für drei von uns war dies auch das erste mal China. Ehrlich gesagt war ich ziemlich aufgeregt, da unsere Vorbereitungen am abend davor mir klargemacht haben, dass unser Reiseziel nicht so gewöhnlich ist wie vielleicht alle zuvor. Wir brauchten eine VPN, um Whatsapp, Instagram und eigenlich alle anderen westlichen Apps nutzen zu können. Alipay und WeChat für die Bezahlung und ehrlich alles andere auch. Unser Flug war ziemlich turbulent und mit fast 3h Verspätung waren wir in Shanghai. Ehrlih gesagt hatte ich einen ziemlichen Kulturschock und wir haben die ganzen 4 Tage überlegt woran das lag. Schlussendlich sind wir zu dem Entschluss gekommen, dass jedes asiatische Reiseziel nach Japan einfach unglaublich anders ist. Japan ist ein so geordnetes Land, niemand würde einen einfach ansprechen und der Respekt der Gesellschaft und damit wirklich jedem einzelnem Einwohner gegenüber ist Prioriät. Ich kann gar nicht abschätzen, wie oft ich mich in China verbeugt habe, weil das einfach so normal für mich geworden ist. </p>
 
