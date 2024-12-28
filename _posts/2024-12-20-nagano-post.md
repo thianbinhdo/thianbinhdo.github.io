@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Tage Nagano in Bildern"
-date: 2020-01-27 23:45:13 -0400
+date: 2024-12-20 23:45:13 -0400
 background: '/img/posts/nagano/18.jpeg'
 ---
 

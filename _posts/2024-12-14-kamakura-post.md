@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ein sonniger Tag in Kamakura"
-date: 2020-01-27 23:45:13 -0400
+date: 2024-12-14 23:45:13 -0400
 background: '/img/posts/kamakura/08.jpeg'
 ---
 
