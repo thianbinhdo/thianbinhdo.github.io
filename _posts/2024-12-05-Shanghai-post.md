@@ -10,7 +10,7 @@ background: '/img/posts/shanghai/54.jpeg'
 <p> Unser Trip zu viert nach Shanghai begann am Narita Flughafen in Tokio. Von da begann unsere aufregende Reise und für drei von uns war dies auch das erste mal China. Ehrlich gesagt war ich ziemlich aufgeregt, da unsere Vorbereitungen am abend davor mir klargemacht haben, dass unser Reiseziel nicht so gewöhnlich ist wie vielleicht alle zuvor. Wir brauchten eine VPN, um Whatsapp, Instagram und eigenlich alle anderen westlichen Apps nutzen zu können. Alipay und WeChat für die Bezahlung und ehrlich alles andere auch. Unser Flug war ziemlich turbulent und mit fast 3h Verspätung waren wir in Shanghai. Ehrlih gesagt hatte ich einen ziemlichen Kulturschock und wir haben die ganzen 4 Tage überlegt woran das lag. Schlussendlich sind wir zu dem Entschluss gekommen, dass jedes asiatische Reiseziel nach Japan einfach unglaublich anders ist. Japan ist ein so geordnetes Land, niemand würde einen einfach ansprechen und der Respekt der Gesellschaft und damit wirklich jedem einzelnem Einwohner gegenüber ist Prioriät. Ich kann gar nicht abschätzen, wie oft ich mich in China verbeugt habe, weil das einfach so normal für mich geworden ist. </p>
 
 <div class="gallery">
-  <img src="/img/posts/shanghai/01.jpeg" alt="Shanghai Bild 1" class="img-fluid">
+  <img src="/img/posts/shanghai/01.jpeg" alt="Shanghai Bild 1" cstyle="width: 300px; height: auto;">
   <p class="caption text-muted">Bild 1 aus Shanghai</p>
 
   <img src="/img/posts/shanghai/02.jpeg" alt="Shanghai Bild 2" class="img-fluid">
